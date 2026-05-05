@@ -1,9 +1,5 @@
 # ti-p-factor-chronic-disease
 Analysis scripts for the manuscript: "From Psychological Distress to Multi-System Morbidity: A Transdiagnostic Internalizing Factor Predicts Chronic Disease Onset".
-# From Psychological Distress to Multi-System Morbidity
-
-**Official code repository for the manuscript:** 
-*"From Psychological Distress to Multi-System Morbidity: A Transdiagnostic Internalizing Factor Predicts Chronic Disease Onset"*
 
 ## Overview
 
